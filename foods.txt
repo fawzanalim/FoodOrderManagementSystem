@@ -1,0 +1,3 @@
+0001	Nuts	0004	Snacks	0	2
+0002	Oreo	0004	Snacks	2	3
+0003	Nasi Lemak	0001	Breakfast	10	7.5

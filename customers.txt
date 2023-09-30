@@ -1,0 +1,3 @@
+000001	Tahmid	tahmid@gmail.com	0123123123	123123123	ASDADsdadwd
+000002	Customer One	customer1@gmail.com	01313514	123123123	ASDASDASDASD
+000003	Customer Two	customer2@gmail.com	01132121	123123123	Selangor
